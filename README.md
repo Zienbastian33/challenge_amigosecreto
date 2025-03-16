@@ -2,6 +2,8 @@
 
 Aplicación web simple para organizar un sorteo de amigo secreto. Esta aplicación permite a los usuarios ingresar nombres de participantes y realizar un sorteo aleatorio.
 
+Link Github-pages: https://github.com/Zienbastian33/challenge_amigosecreto
+
 ## Funcionalidades
 
 - Agregar participantes a una lista
